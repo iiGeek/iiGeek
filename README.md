@@ -4,9 +4,9 @@
 
 ## 🙋‍♂️ Connect with me
 
-[![Telegram](https://img.shields.io/badge/rrRrr-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iiGeek "Telegram")
-[![Twitter](https://img.shields.io/badge/-@iGeek_io-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/icl3y)](https://twitter.com/iGeek_io "Twitter")
-[![E-mail](https://img.shields.io/badge/Saleh7@protonmail.ch-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:i7saad@protonmail.ch?subject=hi "E-mail")
+[![Telegram](https://img.shields.io/badge/iiGeek-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iiGeek "Telegram")
+[![Twitter](https://img.shields.io/badge/-@icl3y-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/icl3y)](https://twitter.com/iGeek_io "Twitter")
+[![E-mail](https://img.shields.io/badge/i7saad@protonmail.ch-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:i7saad@protonmail.ch?subject=hi "E-mail")
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logoColor=white&logo=discord)](https://discordapp.com/users/iigeek "Discord")
 [![Dev.to](https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/iigeek "Dev.to iigeek")
 
