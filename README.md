@@ -1,7 +1,10 @@
 <h2 align="center">👋 Hello, My name is SaaD</h2>
 
 <br/>
+<p align="center">
+  <img align="center" src = "https://profile-counter.glitch.me/iiGeek/count.svg" alt ="Loading..."> <br>
 
+</p>
 <h3 align="center">🙋‍♂️ Connect With Me:</h3>
 <hr/>
 
