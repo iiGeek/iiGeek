@@ -1,9 +1,9 @@
 <h2 align="center">👋 Hello, My name is SaaD</h2>
-<hr/>
+
 <br/>
 <h3>🙋‍♂️ Connect With Me:</h3>
 <hr/>
-<div align="center">
+<div align="center" padding=15px>
   <a href="https://twitter.com/icl3y" target="_blank" >
     <img height="30" src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
@@ -18,7 +18,7 @@
 <br/>
 <h3>👨‍💻 Programming Languages:</h3>
 <hr />
-<div align="left">
+<div align="left"  padding=15px>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="css3 logo"  />
@@ -38,7 +38,7 @@
 <br/>
 <h3>🧰 Others:</h3>
 <hr />
-<div align="left">
+<div align="left" padding=15px>
   <img width="12" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" alt="react logo"  />
   <img width="12" />
