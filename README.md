@@ -33,22 +33,7 @@
 
 <br/>
 
-<h3 align="center">🧰 Tools and Operating Systems:</h3>
-<hr/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30" alt="VSCode Logo"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30" alt="Postman Logo"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" height="30" alt="PyCharm Logo"/>
-  <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" height="30" alt="WebStorm Logo"/>
-  <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white" height="30" alt="Atom Logo"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" alt="Linux Logo"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30" alt="Windows Logo"/>
-</div>
-
-<br/>
-
-<h3 align="center">🧰 Others:</h3>
+<h3 align="center">🌐 Others:</h3>
 <hr/>
 
 <div align="center">
@@ -61,6 +46,30 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="30" alt="Docker Logo"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="30" alt="MongoDB Logo"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="30" alt="npm Logo"/>
+</div>
+
+<br/>
+<h3 align="center">🧰 Tools :</h3>
+<hr/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30" alt="VSCode Logo"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30" alt="Postman Logo"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" height="30" alt="PyCharm Logo"/>
+  <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" height="30" alt="WebStorm Logo"/>
+  <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white" height="30" alt="Atom Logo"/>
+</div>
+
+<br/>
+
+<h3 align="center">💻 Operating Systems:</h3>
+<hr/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" alt="Linux Logo"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30" alt="Windows Logo"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="30" alt="Android Logo"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" height="30" alt="iOS Logo"/>
 </div>
 
 <br/>
