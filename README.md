@@ -1,9 +1,5 @@
 <h2 align="center">👋 Hello, My name is SaaD</h2>
-
 <hr/>
-<center>
-    <img height="150" src="https://media.giphy.com/media/WmkEhAIyWfpm1vdVcg/giphy.gif"  />
-</center>
 <br/>
 <h3>🙋‍♂️ Connect With Me:</h3>
 <hr/>
